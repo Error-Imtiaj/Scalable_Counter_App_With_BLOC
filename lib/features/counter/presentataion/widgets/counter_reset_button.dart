@@ -1,4 +1,5 @@
-import 'package:counter/features/counterPage/bloc/bloc/counter_bloc_bloc.dart';
+
+import 'package:counter/features/counter/bloc/counter_bloc_bloc.dart';
 import 'package:flutter/material.dart';
 
 class CounterResetButton extends StatelessWidget {

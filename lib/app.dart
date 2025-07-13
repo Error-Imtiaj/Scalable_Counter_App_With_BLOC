@@ -1,6 +1,6 @@
 import 'package:counter/core/utils/app_theme.dart';
-import 'package:counter/features/counterPage/bloc/bloc/counter_bloc_bloc.dart';
-import 'package:counter/features/counterPage/presentataion/screens/counter_page.dart';
+import 'package:counter/features/counter/bloc/counter_bloc_bloc.dart';
+import 'package:counter/features/counter/presentataion/screens/counter_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';

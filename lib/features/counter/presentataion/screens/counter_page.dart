@@ -1,8 +1,8 @@
 import 'package:counter/core/utils/app_const.dart';
 import 'package:counter/core/widgets/app_button.dart';
 import 'package:counter/core/widgets/my_app_bar.dart';
-import 'package:counter/features/counterPage/bloc/bloc/counter_bloc_bloc.dart';
-import 'package:counter/features/counterPage/presentataion/widgets/counter_reset_button.dart';
+import 'package:counter/features/counter/bloc/counter_bloc_bloc.dart';
+import 'package:counter/features/counter/presentataion/widgets/counter_reset_button.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
@@ -57,7 +57,7 @@ class _CounterPageState extends State<CounterPage> {
             ),
             Spacer(),
             Padding(
-              padding: EdgeInsets.only(bottom: 40.h),
+              padding: EdgeInsets.only(bottom: 60.h),
               child: CounterResetButton(counterBloc: counterBloc),
             ),
           ],
