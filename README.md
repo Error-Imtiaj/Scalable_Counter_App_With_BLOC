@@ -9,7 +9,7 @@ A scalable **Flutter counter application** built using **BLoC state management**
 
 | Light Theme                        | Dark Theme                         |
 | --------------------------------- | ---------------------------------- |
-| ![Light](screenshots/light.png)   | ![Dark](screenshots/dark.png)     |
+| ![Light](screenshot/light.png)   | ![Dark](screenshot/dark.png)     |
 
 
 
