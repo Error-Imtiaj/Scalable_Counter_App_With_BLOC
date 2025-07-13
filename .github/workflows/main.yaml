@@ -9,6 +9,10 @@ on:
       # - master // another branches
       # - develop
 name: "Build & Release"
+
+
+permissions:
+  contents: write  
 jobs:
   build:
     name: Build & Release
