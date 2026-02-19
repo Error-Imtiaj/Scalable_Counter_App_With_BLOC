@@ -13,8 +13,6 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  // TODO CONSTRUTOR CREATED
-
   @override
   Widget build(BuildContext context) {
     return ScreenUtilInit(
